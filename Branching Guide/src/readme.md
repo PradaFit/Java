@@ -21,7 +21,7 @@ To get started with this project, you'll need to have the following installed on
 ### Installation
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/JavaBranchingGuide.git
+    git clone https://github.com/PradaFit/JavaBranchingGuide.git
     ```
 2. Open the project in your preferred IDE.
 3. Ensure that the JDK is properly configured in your IDE.
