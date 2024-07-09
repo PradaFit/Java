@@ -19,7 +19,7 @@
 Welcome to the **Budget Tracker** project! This repository is designed to help users keep track of their expenses through a simple console-based Java application. 
 The primary focus is on three main files: `Expense.java`, `BudgetTracker.java`, and `MoneyThings.java`, which collectively provide a comprehensive expense tracking solution.
 
-![MoneyThings Preview] (MoneyThings.png)
+![MoneyThings Preview](MoneyThings.png)
 
 ## Features
 - **Add Expense**: Record your expenses with a category, description, and amount.
